@@ -1,2 +1,3 @@
 # GitHUb Demo
-My First Git Experience to demonstrate 
+### GitHub sub-heading
+My First Git Experience to demonstrate the knowledge in Git and GitHub
